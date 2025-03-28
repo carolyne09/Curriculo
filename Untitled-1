@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Currículo" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Minha Apresentação <br></h1>
+
+    <p>Me chamo Maria Carolyne Nogueira, no momento estou cursando o curso de
+        Análise de Desenvolvimento de Sistema, na Universidade Tecnológica Federal do
+        Paraná. Estou fazendo dois cursos, um na Udemy sobre HTML, CSS e JavaScript,
+        e o outro curso é de Harvard sobre Ciência da Computação. No momento estou
+        querendo seguir na área de Front-end, gosto muito da área de design e quero atuar
+        na parte visual de aplicativos, onde eu possa expressar minha arte. Pretendo fazer
+        um curso de Design, porque gosto muito de desenhar, assim poderia mostrar minha
+        arte para as pessoas. Também pretendo fazer um cursinho de desenho para
+        aprimorar minhas habilidades, ainda não tenho muita prática. Comecei a desenhar
+        desde criança, uma das minhas inspirações foi o meu irmão, foi com ele que eu
+        aprendi a desenhar.</p>
+</body>
+</html>
